@@ -1,0 +1,139 @@
+2026-05-28 13:17:40,421 - db_helper - INFO - get_expense_summary function called with 2024-08-03 2024-08-05
+2026-05-28 13:24:20,054 - db_helper - INFO - get_expense_summary function called with 2024-08-03 2024-08-05
+2026-05-28 13:24:31,424 - db_helper - INFO - get_expense_summary function called with 2024-08-03 2024-08-05
+2026-05-28 13:30:47,946 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-28 13:31:03,186 - db_helper - INFO - delet_Expenses function called with 2026-08-28
+2026-05-28 13:31:03,198 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2026-08-28 2000000.0 Shopping Bought Creta
+2026-05-28 13:31:03,207 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2026-08-28 300.0 Food Ate Icecream
+2026-05-28 17:21:59,548 - db_helper - INFO - fetch_Expenses_Datewise function called with 2026-05-28
+2026-05-28 17:22:48,024 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 17:27:47,728 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 17:27:59,233 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-28 17:28:03,363 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-04
+2026-05-28 17:28:06,979 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-07
+2026-05-28 17:29:19,884 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-07
+2026-05-28 17:29:25,162 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 17:29:28,827 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-07
+2026-05-28 17:29:33,436 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:42:51,039 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:43:36,517 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:44:04,963 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:44:23,494 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:45:35,762 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:47:58,124 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:49:30,285 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 17:50:02,320 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 18:00:50,610 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-10
+2026-05-28 18:00:56,215 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:02:17,672 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:03:14,956 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:05:11,879 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:05:58,139 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:06:27,371 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:07:14,404 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:07:19,469 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-28 18:11:15,411 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-28 18:14:10,605 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-28 18:15:45,535 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-28
+2026-05-28 18:15:50,051 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:15:57,474 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-05
+2026-05-28 18:16:01,705 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-08
+2026-05-28 18:16:18,473 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:16:22,105 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-07
+2026-05-28 18:16:26,397 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-07
+2026-05-28 18:16:33,145 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:17:03,049 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-28 18:18:32,194 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:01:11,561 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-28
+2026-05-29 18:01:21,058 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:05:49,814 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:06:18,544 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:06:30,496 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-29 18:07:19,655 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-05
+2026-05-29 18:15:12,129 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-28
+2026-05-29 18:15:18,758 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-29 18:16:50,650 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:24:17,971 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:24:25,625 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-29 18:24:56,670 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-28
+2026-05-29 18:25:03,978 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:25:40,091 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-28
+2026-05-29 18:25:45,831 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:25:53,796 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-29 18:27:41,786 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-28
+2026-05-29 18:27:53,178 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:29:52,752 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 18:29:59,007 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:52:25,012 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 18:52:50,648 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 18:59:35,605 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 18:59:40,139 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 19:00:17,276 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 19:00:20,105 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-29 19:01:08,334 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 19:01:35,634 - db_helper - INFO - delet_Expenses function called with 2024-08-01
+2026-05-29 19:01:35,685 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 1227.0 Rent Monthly rent payment
+2026-05-29 19:01:35,709 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 300.0 Food Groceries for the week
+2026-05-29 19:01:35,734 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 1200.0 Rent Monthly rent payment
+2026-05-29 19:01:35,759 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 300.0 Food Groceries for the week
+2026-05-29 19:04:13,817 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 19:04:22,409 - db_helper - INFO - delet_Expenses function called with 2024-08-01
+2026-05-29 19:04:22,436 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 1227.0 Rent Monthly rent payment
+2026-05-29 19:04:22,457 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 300.0 Food Groceries for the week
+2026-05-29 19:04:22,475 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 1200.0 Rent Monthly rent payment
+2026-05-29 19:04:22,496 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 300.0 Food Groceries for the week
+2026-05-29 19:09:10,785 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 19:09:14,984 - db_helper - INFO - delet_Expenses function called with 2024-08-01
+2026-05-29 19:09:15,015 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 1227.0 Rent Monthly rent payment
+2026-05-29 19:09:15,037 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 300.0 Food Groceries for the week
+2026-05-29 19:09:15,057 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 1200.0 Rent Monthly rent payment
+2026-05-29 19:09:15,081 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 300.0 Food Groceries for the week
+2026-05-29 19:09:15,109 - db_helper - INFO - Adding details to the databse in function add_Expenses with 2024-08-01 500.0 Shopping Toy
+2026-05-29 19:33:48,216 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-29 19:33:58,490 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-07
+2026-05-29 19:34:18,275 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-07
+2026-05-29 19:45:45,028 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-30 06:43:18,851 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-30 06:43:22,926 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-30 06:44:42,611 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-03
+2026-05-30 07:02:16,550 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 07:04:45,679 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 07:29:25,894 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 07:30:11,383 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 07:48:06,204 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-02
+2026-05-30 07:54:47,668 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:08:16,495 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:11:47,730 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:16:09,451 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-30 08:16:13,838 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:18:36,369 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:20:30,474 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:21:17,816 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:21:57,568 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:22:53,870 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:24:41,604 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:28:40,035 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:29:35,999 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:29:50,224 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:30:07,307 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 08:30:24,053 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 09:23:10,850 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-30 09:25:25,265 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 09:26:19,559 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 09:27:28,647 - db_helper - INFO - get_expense_summary function called with 2024-08-01 2024-08-05
+2026-05-30 09:57:44,232 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 09:58:45,092 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:19:14,344 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:20:01,515 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:24:28,832 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-30 10:26:47,683 - db_helper - INFO - fetch_Expenses_Datewise function called with 2024-08-01
+2026-05-30 10:31:51,741 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:32:07,691 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:32:51,568 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:33:39,788 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:34:19,445 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:34:54,666 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:35:11,001 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:36:57,770 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:37:37,202 - db_helper - INFO - get_month_summary function called to get month wise summary
+2026-05-30 10:38:38,864 - db_helper - INFO - get_month_summary function called to get month wise summary
